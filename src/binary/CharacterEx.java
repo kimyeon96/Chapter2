@@ -9,7 +9,7 @@ public class CharacterEx {
 		System.out.println((int)ch);
 		
 		ch = 66;
-		//¾È³ç
+		
 		System.out.println(ch);
 		
 		int ch2 = 67;

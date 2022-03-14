@@ -6,6 +6,8 @@ public class VariableEx2 {
 		
 		long num = 12345678900L;
 		System.out.println(num);
+		
+		//변수 예시
 	}
 
 }
